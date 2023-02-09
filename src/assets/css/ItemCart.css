@@ -1,0 +1,42 @@
+.container-item__cart {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin: 5em;
+    -webkit-box-shadow: 11px 3px 9px 7px rgba(0, 0, 0, 0.04);
+    -moz-box-shadow: 11px 3px 9px 7px rgba(0, 0, 0, 0.04);
+    box-shadow: 11px 3px 9px 7px rgba(0, 0, 0, 0.04);
+}
+
+.image-itemCart {
+    width: 12.5rem;
+    height: 12.5rem;
+    margin: 1em 0 0 1em;
+
+}
+
+.remove-item {
+    cursor: pointer;
+    margin-right: 1em;
+    margin-bottom: 10em;
+    margin: 1em 1em 10em 0;
+}
+
+.item-cart-mid {
+    margin: 3em 5em;
+}
+
+.item-cart-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.subtotal {
+    margin: 0 1em 1em 0;
+}
+
+.label-itemCart{
+    font-size: 1.5rem;
+    padding: 10px;
+}

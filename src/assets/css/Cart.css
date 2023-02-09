@@ -1,0 +1,7 @@
+.container-cart-vacio{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 15%;
+    align-items: center;
+}
